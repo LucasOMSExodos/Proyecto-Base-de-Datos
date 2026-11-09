@@ -202,11 +202,11 @@ INSERT INTO ENTRADA
 
 INSERT INTO ARTISTA
  (Nombre_Artistico, Genero_Musical, Instagram, Foto_Artista) VALUES
- ('DJ Aurora','House','https://instagram.com/ejemplo_aurora','/media/artistas/aurora.jpg'),
- ('DJ Nebula','Tech House','https://instagram.com/ejemplo_nebula','/media/artistas/nebula.jpg'),
- ('Banda Ruta','Pop','https://instagram.com/ejemplo_bandaruta','/media/artistas/ruta.jpg'),
- ('Solista Luz','Pop','https://instagram.com/ejemplo_solista','/media/artistas/luz.jpg'),
- ('Orquesta Horizonte','Tropical','https://instagram.com/ejemplo_orquesta','/media/artistas/horizonte.jpg');
+ ('DJ Aurora','House','https://instagram.com','/media/artistas/aurora.jpg'),
+ ('DJ Nebula','Tech House','https://instagram.com','/media/artistas/nebula.jpg'),
+ ('Banda Ruta','Pop','https://instagram.com','/media/artistas/ruta.jpg'),
+ ('Solista Luz','Pop','https://instagram.com','/media/artistas/luz.jpg'),
+ ('Orquesta Horizonte','Tropical','https://instagram.com','/media/artistas/horizonte.jpg');
 
 INSERT INTO PARTICIPACION
  (ID_Evento, ID_Artista, Hora_Presentacion, Observacion) VALUES
