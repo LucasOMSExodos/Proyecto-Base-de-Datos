@@ -244,7 +244,7 @@ INNER JOIN PARTICIPACION AS P ON E.ID_Evento = P.ID_Evento
 INNER JOIN ARTISTA AS A ON P.ID_Artista = A.ID_Artista
 WHERE E.Estado_Evento = 'Finalizado' AND F.Publicada = TRUE;
 
--- CONSULTA 3. Seleccion + proyeccion: Entradas de hasta 12 dolares
+-- CONSULTA 3. Seleccion y proyeccion: Entradas de hasta 12 dolares
 -- para eventos publicados.
 SELECT E.Nombre_Evento, T.Nombre_Tipo, T.Precio
 FROM EVENTO AS E
