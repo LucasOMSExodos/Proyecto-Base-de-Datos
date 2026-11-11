@@ -1,0 +1,8 @@
+ID_Participacion,ID_Evento,ID_Artista,Hora_Presentacion,Observacion
+1,1,1,2026-12-12 22:00:00,Apertura
+2,1,2,2026-12-13 00:00:00,Cierre
+3,2,3,2026-12-19 20:00:00,Concierto
+4,2,4,2026-12-19 21:00:00,Invitada
+5,3,1,2027-01-09 23:00:00,Set principal
+6,4,5,2026-08-20 19:00:00,Presentacion central
+7,5,4,2027-02-06 20:00:00,Programacion preliminar
