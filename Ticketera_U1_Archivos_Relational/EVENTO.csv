@@ -1,6 +1,0 @@
-ID_Evento,ID_Organizador,Nombre_Evento,Categoria,Descripcion,Ciudad,Lugar,Direccion,Capacidad,Edad_Minima,Fecha_Inicio,Fecha_Fin,Estado_Evento,Imagen_Portada,Imagen_Banner
-1,1,Noche RESAK,Fiesta,Evento demostrativo de RESAK,Loja,Centro de eventos A,Zona centro,350,18,2026-12-12 20:00:00,2026-12-13 03:00:00,Publicado,/media/resak_portada.jpg,/media/resak_banner.jpg
-2,3,Festival Horizonte,Festival,Festival musical de prueba,Quito,Recinto B,Av. Principal,600,0,2026-12-19 17:00:00,2026-12-20 01:00:00,Publicado,/media/festival_portada.jpg,/media/festival_banner.jpg
-3,4,Beats de Ciudad,Concierto,Sesion electronica,Loja,Sala C,Calle Central,250,18,2027-01-09 21:00:00,2027-01-10 02:00:00,Publicado,/media/beats_portada.jpg,
-4,2,Encuentro Cultural,Cultural,Encuentro finalizado,Cuenca,Teatro D,Sector Historico,180,0,2026-08-20 18:00:00,2026-08-20 23:00:00,Finalizado,/media/cultural_portada.jpg,
-5,5,Sesion Acustica,Concierto,Evento en preparacion,Ambato,Auditorio E,Av. del Parque,150,0,2027-02-06 19:00:00,2027-02-06 23:00:00,Borrador,,

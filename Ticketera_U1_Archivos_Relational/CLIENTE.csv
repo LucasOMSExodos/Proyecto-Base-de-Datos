@@ -1,6 +1,0 @@
-ID_Cliente,Tipo_Documento,Numero_Documento,Nombre_Completo,Correo,Celular,Fecha_Registro
-1,Cedula,0000000001,Cliente de Prueba 1,cliente1@example.com,0991111001,2026-11-11 00:00:00
-2,Cedula,0000000002,Cliente de Prueba 2,cliente2@example.com,0991111002,2026-11-11 00:00:00
-3,Pasaporte,PAS-EJ-003,Cliente de Prueba 3,cliente3@example.com,0991111003,2026-11-11 00:00:00
-4,Cedula,0000000004,Cliente de Prueba 4,cliente4@example.com,0991111004,2026-11-11 00:00:00
-5,Pasaporte,PAS-EJ-005,Cliente de Prueba 5,cliente5@example.com,0991111005,2026-11-11 00:00:00
