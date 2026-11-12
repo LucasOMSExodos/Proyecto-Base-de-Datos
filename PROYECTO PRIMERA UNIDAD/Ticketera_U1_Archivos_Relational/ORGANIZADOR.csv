@@ -1,0 +1,6 @@
+ID_Organizador,Nombre_Organizador,Tipo_Organizador,Correo,Celular,Ciudad,Descripcion
+1,RESAK Premium,Productora,resak.ejemplo@example.com,0990000001,Loja,Eventos musicales
+2,Escena Andina,Productora,andina@example.com,0990000002,Cuenca,Encuentros culturales
+3,Ruta Sonora,Empresa,ruta@example.com,0990000003,Quito,Festivales y conciertos
+4,Luna Urbana,Productora,luna@example.com,0990000004,Loja,Fiestas tematicas
+5,Horizonte Artistico,Artista,horizonte@example.com,0990000005,Ambato,Presentaciones en vivo
